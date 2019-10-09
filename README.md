@@ -1,12 +1,12 @@
 # General Workflow for pushing file on Github:
 
-##down
+## down
 
 1. create new repo & clone
 2. in R, File, new project, Vision control, github, paste
 3. open file and edit
 
-##up
+## up
 
 1. save
 2. select file & commit
@@ -14,7 +14,7 @@
 4. commit
 5. push
 
-##to the common repo
+## to the common repo
 
 new pull request
 
