@@ -10,4 +10,7 @@
 4. commit
 5. push
 
+##to the common repo
+new pull request
+
 
